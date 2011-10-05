@@ -22,6 +22,7 @@
 		75A7029B13C96EAA00C6642A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 75A7029913C96EAA00C6642A /* InfoPlist.strings */; };
 		75A7029E13C96EAA00C6642A /* Aula1Tests.h in Resources */ = {isa = PBXBuildFile; fileRef = 75A7029D13C96EAA00C6642A /* Aula1Tests.h */; };
 		75A702A013C96EAA00C6642A /* Aula1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 75A7029F13C96EAA00C6642A /* Aula1Tests.m */; };
+		75A702B513C97BE200C6642A /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 75A702B413C97BE200C6642A /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,22 +40,23 @@
 		75A7027013C96EAA00C6642A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		75A7027213C96EAA00C6642A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		75A7027413C96EAA00C6642A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		75A7027813C96EAA00C6642A /* Aula1-Info.plist */ = {isa = PBXFileReference; path = "Aula1-Info.plist"; sourceTree = "<group>"; };
+		75A7027813C96EAA00C6642A /* Aula1-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Aula1-Info.plist"; sourceTree = "<group>"; };
 		75A7027A13C96EAA00C6642A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		75A7027C13C96EAA00C6642A /* Aula1-Prefix.pch */ = {isa = PBXFileReference; path = "Aula1-Prefix.pch"; sourceTree = "<group>"; };
+		75A7027C13C96EAA00C6642A /* Aula1-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Aula1-Prefix.pch"; sourceTree = "<group>"; };
 		75A7027D13C96EAA00C6642A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		75A7027F13C96EAA00C6642A /* Aula1AppDelegate.h */ = {isa = PBXFileReference; path = Aula1AppDelegate.h; sourceTree = "<group>"; };
+		75A7027F13C96EAA00C6642A /* Aula1AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Aula1AppDelegate.h; sourceTree = "<group>"; };
 		75A7028013C96EAA00C6642A /* Aula1AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Aula1AppDelegate.m; sourceTree = "<group>"; };
 		75A7028313C96EAA00C6642A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		75A7028513C96EAA00C6642A /* Aula1ViewController.h */ = {isa = PBXFileReference; path = Aula1ViewController.h; sourceTree = "<group>"; };
+		75A7028513C96EAA00C6642A /* Aula1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Aula1ViewController.h; sourceTree = "<group>"; };
 		75A7028613C96EAA00C6642A /* Aula1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Aula1ViewController.m; sourceTree = "<group>"; };
 		75A7028913C96EAA00C6642A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/Aula1ViewController.xib; sourceTree = "<group>"; };
 		75A7029013C96EAA00C6642A /* Aula1Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Aula1Tests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		75A7029813C96EAA00C6642A /* Aula1Tests-Info.plist */ = {isa = PBXFileReference; path = "Aula1Tests-Info.plist"; sourceTree = "<group>"; };
+		75A7029813C96EAA00C6642A /* Aula1Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Aula1Tests-Info.plist"; sourceTree = "<group>"; };
 		75A7029A13C96EAA00C6642A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		75A7029C13C96EAA00C6642A /* Aula1Tests-Prefix.pch */ = {isa = PBXFileReference; path = "Aula1Tests-Prefix.pch"; sourceTree = "<group>"; };
+		75A7029C13C96EAA00C6642A /* Aula1Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Aula1Tests-Prefix.pch"; sourceTree = "<group>"; };
 		75A7029D13C96EAA00C6642A /* Aula1Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Aula1Tests.h; sourceTree = "<group>"; };
 		75A7029F13C96EAA00C6642A /* Aula1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Aula1Tests.m; sourceTree = "<group>"; };
+		75A702B413C97BE200C6642A /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				75A7027813C96EAA00C6642A /* Aula1-Info.plist */,
+				75A702B413C97BE200C6642A /* icon.png */,
 				75A7027913C96EAA00C6642A /* InfoPlist.strings */,
 				75A7027C13C96EAA00C6642A /* Aula1-Prefix.pch */,
 				75A7027D13C96EAA00C6642A /* main.m */,
@@ -225,6 +228,7 @@
 				75A7027B13C96EAA00C6642A /* InfoPlist.strings in Resources */,
 				75A7028413C96EAA00C6642A /* MainWindow.xib in Resources */,
 				75A7028A13C96EAA00C6642A /* Aula1ViewController.xib in Resources */,
+				75A702B513C97BE200C6642A /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,6 +447,7 @@
 				75A702A513C96EAA00C6642A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		75A702A613C96EAA00C6642A /* Build configuration list for PBXNativeTarget "Aula1Tests" */ = {
 			isa = XCConfigurationList;
@@ -451,6 +456,7 @@
 				75A702A813C96EAA00C6642A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
