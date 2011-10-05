@@ -10,7 +10,7 @@
 
 @interface Aula1ViewController : UIViewController {
     //Criada uma label para que ela possa receber o texto futuramente
-    UILabel *labelTexto;
+    UILabel *labelTexto; //editando o negócio
 }
 
 //Criada property para utilizarmos essa label como um Outlet, intregrando assim com o interface builder
