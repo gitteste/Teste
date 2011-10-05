@@ -15,7 +15,7 @@
 
 //Implementação do metódo botaoPressionado, criado no Aula1ViewController.h
 -(IBAction)botaoPressionado:(id)sender{
-    
+    //*********** Alteração no gitteste *****************
     //O sender é recebido como parâmetro e possui a informação de qual botão foi pressionado
     //Através dessa informação o ponteiro pTitulo apontará para o título escrito no botão que foi pressionado
     NSString *pTitulo = [sender titleForState:UIControlStateNormal];
